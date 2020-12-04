@@ -22,9 +22,6 @@
 * Clone the repository to your pc
 * git clone https://github.com/torinke/myportfolio.git
 
-## Live link 
-
-*  
 ## Contact
 
 * For any inqueries email me at deborahresian04@gmail.com
