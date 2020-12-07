@@ -21,6 +21,7 @@
 
 * Clone the repository to your pc
 * git clone https://github.com/torinke/myportfolio.git
+* live link  https://torinke.github.io/myportfolio/
 
 ## Contact
 
